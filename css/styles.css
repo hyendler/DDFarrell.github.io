@@ -1,0 +1,40 @@
+p {
+	color: white;
+	text-align: left;
+}
+
+.gwc {
+	height: ;
+}
+
+body {
+	background-color: #ffb3b3;
+
+}
+
+.scratch {
+	height: 175px;
+	width: 500px;
+	float: left;
+}
+
+.python {
+	height: 175px;
+	width: 500px;
+	float: left;
+}
+
+.pygame {
+	height: 175px;
+	width: 175px;
+}
+
+.boe {
+	height: 175px;
+	width: 175px;
+}
+
+h2 {
+	color: #bdf0dc;
+	text-align: center;
+}
