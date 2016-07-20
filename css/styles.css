@@ -15,13 +15,11 @@ body {
 .scratch {
 	height: 175px;
 	width: 500px;
-	float: left;
 }
 
 .python {
 	height: 175px;
 	width: 500px;
-	float: left;
 }
 
 .pygame {
